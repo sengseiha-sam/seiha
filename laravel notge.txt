@@ -1,0 +1,6 @@
+Laravel Note:
+- table->string('name')->unique();// name is no duplicate
+- The diffference between timestamp and timestamps
+
+-unsignedBiginteger: positive integer
+  
